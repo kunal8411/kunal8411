@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a Senior Full Stack Developer with **Sleek**
 
-- 🌱 I’m currently learning **Ruby on rails, AWS, Web3**
+- 🌱 I’m currently learning **React Native, Ruby on rails, AWS, Web3**
 
 - 👨‍💻 All of my projects are available at [https://kunal-khairnar-portfolio.vercel.app/](https://kunal-khairnar-portfolio.vercel.app/)
 
