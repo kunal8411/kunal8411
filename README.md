@@ -4,17 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal8411&label=Profile%20views&color=0e75b6&style=flat" alt="kunal8411" /> </p>
 
-- 🔭 I’m currently working as a Senior Full Stack Developer with **Sleek**
+- 🔭 I’m currently working as a Senior Full Stack Developer with **Nexus Cognitive**
 
-- 🌱 I’m currently learning **React Native, Ruby on rails, AWS, Web3**
+- 🌱 I’m currently learning **React Native, Ruby on Rails, AWS, Web3**
 
 - 👨‍💻 All of my projects are available at [https://kunal-khairnar-portfolio.vercel.app/](https://kunal-khairnar-portfolio.vercel.app/)
 
-- 💬 Ask me about **JavaScript, TypeScript, Node.Js, React, Vue.Js, Next.Js, Nest,Js, HTML, CSS, MonogDb**
+- 💬 Ask me about **JavaScript, TypeScript, Node.js, React, Vue.js, Next.js, Nest.js, HTML, CSS, MongoDB**
 
 - 📫 How to reach me **kunal.khairnar96@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ZYNI-33-8Ng9RYxTOca3qRawNAzwcxhh/view?usp=sharing](https://drive.google.com/file/d/1ZYNI-33-8Ng9RYxTOca3qRawNAzwcxhh/view?usp=sharing)
+- 📄 Know about my experiences [https://heykunal.netlify.app/](https://heykunal.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
