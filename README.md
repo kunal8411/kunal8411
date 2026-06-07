@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **React Native, Ruby on Rails, AWS, Web3**
 
-- 👨‍💻 All of my projects are available at [https://kunal-khairnar-portfolio.vercel.app/](https://kunal-khairnar-portfolio.vercel.app/)
-
 - 💬 Ask me about **JavaScript, TypeScript, Node.js, React, Vue.js, Next.js, Nest.js, HTML, CSS, MongoDB**
 
 - 📫 How to reach me **kunal.khairnar96@gmail.com**
